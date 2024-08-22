@@ -35,7 +35,7 @@ Currently, two official plugins are available:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Cramouchegit/Money-Management-App.git
+   https://github.com/Cramouchegit/PopMovie.git
    ```
 
 2. Navigate to the project directory:
